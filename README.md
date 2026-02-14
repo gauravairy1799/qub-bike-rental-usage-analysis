@@ -67,7 +67,8 @@ To reproduce this analysis locally:
 git clone <repo-link>
 cd qub-bike-rental-usage-analysis
 pip install -r requirements.txt
-jupyter notebook```
+jupyter notebook
+```
 
 ## Author
 **Gaurav Singh Airy**  
