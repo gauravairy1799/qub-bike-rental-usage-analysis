@@ -1,3 +1,6 @@
+> Exploratory data analysis and SQL-based investigation of bike rental behaviour to identify peak usage patterns and long-duration anomalies.
+
+
 # Bike Rental Usage Analysis & Outlier Investigation
 
 ## Objective
