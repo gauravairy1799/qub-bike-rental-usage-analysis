@@ -63,7 +63,7 @@ Long-duration rentals are disproportionately associated with **specific user gro
 
 To reproduce this analysis locally:
 
-```bash
+bash
 git clone <repo-link>
 cd qub-bike-rental-usage-analysis
 pip install -r requirements.txt
