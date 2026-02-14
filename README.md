@@ -53,11 +53,21 @@ Long-duration rentals are disproportionately associated with **specific user gro
 
 ## Project Structure
 - Notebook: `notebooks/bike_rental_usage_analysis.ipynb`  
-- Data: `data/`  
+- Data: `dataset/`  
 - Visuals: `assets/`  
 - Report: `reports/bike_rental_report.html`  
 
 ---
+
+## Reproducibility
+
+To reproduce this analysis locally:
+
+```bash
+git clone <repo-link>
+cd qub-bike-rental-usage-analysis
+pip install -r requirements.txt
+jupyter notebook
 
 ## Author
 **Gaurav Singh Airy**  
